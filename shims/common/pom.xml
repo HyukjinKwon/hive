@@ -17,13 +17,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.hyukjinkwon.hive</groupId>
+    <groupId>com.github.hyukjinkwon</groupId>
     <artifactId>hive</artifactId>
     <version>1.2.1.spark2</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
 
-  <groupId>org.hyukjinkwon.hive.shims</groupId>
+  <groupId>com.github.hyukjinkwon.shims</groupId>
   <artifactId>hive-shims-common</artifactId>
   <packaging>jar</packaging>
   <name>Hive Shims Common</name>

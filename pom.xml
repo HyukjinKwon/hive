@@ -19,7 +19,7 @@
     <artifactId>apache</artifactId>
     <version>14</version>
   </parent>
-  <groupId>org.hyukjinkwon.hive</groupId>
+  <groupId>com.github.hyukjinkwon</groupId>
   <artifactId>hive</artifactId>
   <version>1.2.1.spark2</version>
   <packaging>pom</packaging>
