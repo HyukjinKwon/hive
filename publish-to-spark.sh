@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export GPG_TTY=$(tty)
+
 if [ -z "$GPG_PASSPHRASE" ]; then
     echo "Need to set GPG_PASSPHRASE"
     exit 1
